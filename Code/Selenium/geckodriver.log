@@ -1,0 +1,14 @@
+1478174773370	geckodriver	INFO	Listening on 127.0.0.1:52074
+1478174775246	mozprofile::profile	INFO	Using profile path C:\Users\Lukyanov\AppData\Local\Temp\rust_mozprofile.KPpBPl8GoC5A
+1478174775254	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478174775267	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52080
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1478174777946	Marionette	INFO	Listening on port 52080
+1478175037107	geckodriver	INFO	Listening on 127.0.0.1:52220
+1478175039106	mozprofile::profile	INFO	Using profile path C:\Users\Lukyanov\AppData\Local\Temp\rust_mozprofile.Qw74zHmGvjkt
+1478175039114	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478175039128	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52226
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1478175040720	Marionette	INFO	Listening on port 52226
